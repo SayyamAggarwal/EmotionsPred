@@ -1,0 +1,13 @@
+pandas 
+numpy
+scikit-learn
+tensorflow
+streamlit
+matplotlib
+seaborn
+tensorboard
+ipykernel
+keras
+kagglehub
+kaggle
+opencv-python
